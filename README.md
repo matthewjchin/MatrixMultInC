@@ -16,7 +16,7 @@ Also: Check for invalid dimenstions of matrices when multiplying as well as matr
 
 Changes to Repo:
 --------------------
-4 May 2019: First push. 
-7 May 2019: Aditional Details; formatting header of README file.
-22 May 2019: Added comments to matrix.c file, added to README file.
+4 May 2019: First push.<br> 
+7 May 2019: Aditional Details; formatting header of README file.<br>
+22 May 2019: Added comments to matrix.c file, added to README file.<br>
 
