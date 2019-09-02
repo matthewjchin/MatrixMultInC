@@ -12,11 +12,13 @@ to be a 3x2 matrix as a result of the number of columns for the first matrix mat
 same value of the number of rows for the second matrix. 
 
 In future: Will allow for two different matrices of different dimensions, without limits. 
-Also: Check for invalid dimenstions of matrices when multiplying as well as matrix addition. 
+Also: Check for invalid dimensions of matrices when multiplying as well as matrix addition. 
 
 Changes to Repo:
 --------------------
 4 May 2019: First push.<br> 
 7 May 2019: Aditional Details; formatting header of README file.<br>
 22 May 2019: Added comments to matrix.c file, added to README file.<br>
+1 Sep 2019: Added new_matrix.c file, which includes details on inputting data for two different matrices
+of two different dimensions.<br>
 
